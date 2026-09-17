@@ -55,10 +55,6 @@ Nilai p yang jauh lebih kecil dari 0.05 pada kedua variabel menunjukkan bahwa re
 - Residual pada kedua variabel belum sepenuhnya acak, mengindikasikan adanya faktor eksternal nonmusiman yang belum tertangkap model, seperti cuaca ekstrem, aktivitas manusia, atau perubahan penggunaan lahan.
 - Ditemukan satu nilai outlier pada kelembapan udara (97 persen, tanggal 10 Desember 2024), namun tidak berdampak signifikan terhadap hasil dekomposisi karena sifat STL yang robust terhadap nilai ekstrem.
 
-## Dashboard
-
-Tidak ada dashboard pada proyek ini. Seluruh visualisasi (dekomposisi STL, plot ACF/PACF, boxplot) ditampilkan langsung dalam notebook menggunakan matplotlib.
-
 ## Teknologi yang Digunakan
 
 - Bahasa: Python (dijalankan di Google Colab)
