@@ -111,7 +111,4 @@ jupyter notebook notebook/KP_ANALISIS_TREN_POLA_MUSIMAN.ipynb
 Repository ini tidak menyertakan kredensial API apa pun. Dataset yang digunakan berupa data iklim harian (suhu dan kelembapan udara) yang bersifat publik, diperoleh secara resmi dari Stasiun Klimatologi Yogyakarta di bawah BMKG, untuk keperluan penelitian akademik nonkomersial dalam rangka mata kuliah Kerja Praktik. Dataset tidak mengandung data pribadi maupun informasi sensitif individu.
 
 ## Penulis
-
-Rigel Cahyo Gumilang Susanto
-5221811013
-Program Studi Sains Data, Fakultas Sains & Teknologi, Universitas Teknologi Yogyakarta
+Rigel Cahyo Gumilang Susanto, Program Studi Sains Data, Universitas Teknologi Yogyakarta. Project ini dikerjakan sebagai bagian dari mata kuliah Kerja Praktik.
